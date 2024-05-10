@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { DialogModule } from 'primeng/dialog';
-import { Button, ButtonModule } from 'primeng/button';
+import { ButtonModule } from 'primeng/button';
 
 @Component({
   selector: 'app-login-modal',
