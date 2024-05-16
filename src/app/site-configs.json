@@ -1,0 +1,34 @@
+{
+  "site-configs": [
+    {
+      "version": "C3_1",
+      "description": "C3 Actual",
+      "status": "Unapproved",
+      "lastUpdated": "2024-01-01",
+      "EditorBy": "None",
+      "EditorDate": "2024-01-01",
+      "SignerBy": "None",
+      "SignerDate": "2024-01-01"
+    },
+    {
+      "version": "C3_2",
+      "description": "C3 Actual",
+      "status": "Unapproved",
+      "lastUpdated": "2024-01-01",
+      "EditorBy": "None",
+      "EditorDate": "2024-01-01",
+      "SignerBy": "None",
+      "SignerDate": "2024-01-01"
+    },
+    {
+      "version": "C3_3",
+      "description": "C3 Actual",
+      "status": "Unapproved",
+      "lastUpdated": "2024-01-01",
+      "EditorBy": "None",
+      "EditorDate": "2024-01-01",
+      "SignerBy": "None",
+      "SignerDate": "2024-01-01"
+    }
+  ]
+}
